@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping
-@CrossOrigin(origins = "https://322-frontend-jyl8.vercel.app")
 public class GreetingController {
     //Get https:localhost:8080
     @GetMapping

@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 @SpringBootApplication
-@CrossOrigin(origins = "https://322-frontend-jyl8.vercel.app")
 public class ChatroomApplication {
 
 	public static void main(String[] args) {
