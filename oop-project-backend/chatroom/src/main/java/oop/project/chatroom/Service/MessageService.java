@@ -24,7 +24,7 @@ public class MessageService {
 
 
     public  String ACCOUNT_SID = "ACb0d79e1f5f6864bab978474d6580b08b";
-    public  String AUTH_TOKEN = "14bc8a6042183ee28aca85615744a658";
+    public  String AUTH_TOKEN = "32439f96f99474f37166838a1772fcc8";
 
 
 
