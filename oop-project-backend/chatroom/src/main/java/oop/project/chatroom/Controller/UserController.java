@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Objects;
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://322-frontend-jyl8.vercel.app")
 @RestController
 @RequestMapping("/users")
 public class UserController {

@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://322-frontend-jyl8.vercel.app")
 @RestController
 @RequestMapping("/messages")
 public class MessageController {
