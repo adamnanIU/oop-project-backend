@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class GreetingController {
     //Get https:localhost:8080
     @GetMapping
-    public String greetings(){
-        return "Greetings!";
+    public String greetings() {
+        return "Hello there!";
     }
 }
